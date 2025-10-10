@@ -23,6 +23,6 @@
     "@open-wc/testing-helpers": "^2.2.1",
     "chai": "^5.1.0",
     "sinon": "^17.0.1",
-    "axe-core": "^4.9.1"
+    "axe-core": "^4.8.1"
   }
 }
