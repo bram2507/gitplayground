@@ -4,7 +4,7 @@ import { ICounterRepository } from '../../domain/repositories/counter.repository
 export class CounterMemoryRepository extends ICounterRepository {
   constructor() {
     super();
-    this._counter = new Counter(0);
+    this._counter = new Counter(1);
   }
 
   save(counter) {
