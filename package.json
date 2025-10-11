@@ -16,13 +16,13 @@
     "@lit-labs/router": "^0.1.4"
   },
   "devDependencies": {
-    "vite": "^5.2.14",
-    "@web/test-runner": "^0.15.0",
-    "@web/test-runner-playwright": "^0.10.0",
-    "@open-wc/testing": "^3.2.0",
-    "@open-wc/testing-helpers": "^2.2.1",
-    "chai": "^5.1.0",
-    "sinon": "^17.0.1",
-    "axe-core": "^4.8.1"
+    "vite": "^4.2.14",
+    "@web/test-runner": "^0.14.0",
+    "@web/test-runner-playwright": "^1.10.0",
+    "@open-wc/testing": "^2.2.0",
+    "@open-wc/testing-helpers": "^1.2.1",
+    "chai": "^4.1.0",
+    "sinon": "^16.0.1",
+    "axe-core": "^3.8.1"
   }
 }
