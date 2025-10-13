@@ -12,15 +12,15 @@
     "test": "npm run test:unit && npm run test:e2e && npm run test:a11y"
   },
   "dependencies": {
-    "lit": "^3.1.0",
-    "@lit-labs/router": "^0.1.4"
+    "lit": "^4.1.0",
+    "@lit-labs/router": "^4.1.4"
   },
   "devDependencies": {
     "vite": "^4.2.14",
-    "@web/test-runner": "^0.14.0",
-    "@web/test-runner-playwright": "^1.10.0",
-    "@open-wc/testing": "^2.2.0",
-    "@open-wc/testing-helpers": "^1.2.1",
+    "@web/test-runner": "^4.14.0",
+    "@web/test-runner-playwright": "^4.10.0",
+    "@open-wc/testing": "^4.2.0",
+    "@open-wc/testing-helpers": "^4.2.1",
     "chai": "^4.1.0",
     "sinon": "^16.0.1",
     "axe-core": "^3.8.1"
