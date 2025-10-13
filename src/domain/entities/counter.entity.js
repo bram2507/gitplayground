@@ -4,7 +4,7 @@ export class Counter {
   }
 
   increment() {
-    this.value+5;
+    this.value++;
   }
 
   reset() {
