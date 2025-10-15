@@ -36,7 +36,7 @@ export class AppCounter extends BaseComponent {
 
   reset() {
     container.service.reset();
-    this.count = 0;
+    this.count = 10;
   }
 
   render() {
