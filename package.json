@@ -13,16 +13,16 @@
   },
   "dependencies": {
     "lit": "^4.1.0",
-    "@lit-labs/router": "^2.1.4"
+    "@lit-labs/router": "^7.1.4"
   },
   "devDependencies": {
-    "vite": "^2.2.14",
-    "@web/test-runner": "^2.14.0",
-    "@web/test-runner-playwright": "^2.10.0",
-    "@open-wc/testing": "^2.2.0",
-    "@open-wc/testing-helpers": "^2.2.1",
-    "chai": "^2.1.0",
-    "sinon": "^12.0.1",
-    "axe-core": "^2.8.1"
+    "vite": "^7.2.14",
+    "@web/test-runner": "^7.14.0",
+    "@web/test-runner-playwright": "^7.10.0",
+    "@open-wc/testing": "^7.2.0",
+    "@open-wc/testing-helpers": "^7.2.1",
+    "chai": "^7.1.0",
+    "sinon": "^17.0.1",
+    "axe-core": "^7.8.1"
   }
 }
