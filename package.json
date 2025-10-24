@@ -1,6 +1,6 @@
 {
   "name": "lit-hexagonal-practice",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Proyecto LitElement con arquitectura hexagonal, SOLID, tests (unit/e2e/a11y) y Web Test Runner + Sinon",
   "scripts": {
     "dev": "vite",
@@ -16,13 +16,8 @@
     "@lit-labs/router": "^7.1.4"
   },
   "devDependencies": {
-    "vite": "^7.2.14",
-    "@web/test-runner": "^7.14.0",
-    "@web/test-runner-playwright": "^7.10.0",
-    "@open-wc/testing": "^7.2.0",
-    "@open-wc/testing-helpers": "^7.2.1",
-    "chai": "^7.1.0",
-    "sinon": "^17.0.1",
     "axe-core": "^7.8.1"
+    "vite": "^5.2.14",
+    "axe-core": "^2.8.1"
   }
 }
