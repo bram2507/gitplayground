@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "lit": "^4.1.0",
-    "@lit-labs/router": "^7.1.4"
+    "@lit-labs/router": "^2.1.4"
   },
   "devDependencies": {
     "vite": "^9.2.14",
@@ -21,8 +21,8 @@
     "@web/test-runner-playwright": "^9.10.0",
     "@open-wc/testing": "^9.2.0",
     "@open-wc/testing-helpers": "^9.2.1",
-    "chai": "^9.1.0",
-    "sinon": "^19.0.1",
-    "axe-core": "^9.8.1"
+    "chai": "^9.6.0",
+    "sinon": "^19.6.1",
+    "axe-core": "^9.9.1"
   }
 }
