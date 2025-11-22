@@ -13,7 +13,7 @@ export class CounterService {
   reset() {
     const counter = this.repository.load();
     counter.reset();
-    this.repository.save(counter+200);
+    this.repository.save(counter++);
     return counter;
   }
 }
