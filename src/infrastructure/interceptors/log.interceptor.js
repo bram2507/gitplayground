@@ -4,6 +4,6 @@ export class LogInterceptor {
   }
 
   intercept(action, details = {}) {
-    console.info(`[${this.context}] Acción new release status: ${action}`, details);
+    console.info(`[${this.context}] Acción: ${action}`, details);
   }
 }
