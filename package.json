@@ -17,12 +17,12 @@
   },
   "devDependencies": {
     "vite": "^9.2.14",
-    "@web/test-runner": "^9.14.0",
-    "@web/test-runner-playwright": "^9.10.0",
-    "@open-wc/testing": "^9.2.0",
-    "@open-wc/testing-helpers": "^9.2.1",
-    "chai": "^9.1.0",
-    "sinon": "^19.0.1",
-    "axe-core": "^9.8.1"
+    "@web/test-runner": "20.14.0",
+    "@web/test-runner-playwright": "9.10.0",
+    "@open-wc/testing": "18.2.0",
+    "@open-wc/testing-helpers": "20.2.1",
+    "chai": "12.1.0",
+    "sinon": "22.0.1",
+    "axe-core": "9.8.1"
   }
 }
