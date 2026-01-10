@@ -4,6 +4,6 @@ export class LogInterceptor {
   }
 
   intercept(action, details = {}) {
-    console.info(`[${this.context}] Acción: feature with worktree ${action}`, details);
+    console.info(`[${this.context}] Acción nueva rara: ${action}`, details);
   }
 }
