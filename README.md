@@ -21,3 +21,5 @@ Proyecto de ejemplo con **LitElement + Vite** aplicando:
 See `src/` for domain, infrastructure, application, ui and shared layers.
 
 Git stuff
+
+update stuff on develop doc 
